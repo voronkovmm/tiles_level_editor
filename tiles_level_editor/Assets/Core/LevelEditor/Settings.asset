@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b9ab78be4d72354b8d58b0040d6d311, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  gridSize: {x: 10, y: 5}
+  spacing: {x: -3, y: -3}
+  offsetDetectInnerCell: 0.2
+  previewOffset: {x: -20, y: 20}
+  debugEnable: 0
+  tilePrefab: {fileID: -293464537227504796, guid: 551e801ad706b42499b816406c58d93e, type: 3}
+  gostPrefab: {fileID: 9090005245886680706, guid: 1ec04e0800b24e642b886f497e3d1e7e, type: 3}
+  dataLevelsReference:
+    m_LabelString: DataLevels
+  activeButtonColor: {r: 0.8784314, g: 0.3058824, b: 0.3058824, a: 1}
+  lbNotEmptyColor: {r: 0.8773585, g: 0.43137732, b: 0.3070755, a: 1}
+  lbEmptyColor: {r: 1, g: 1, b: 1, a: 1}
+  fontColor: {r: 0.19607845, g: 0.19607845, b: 0.19607845, a: 1}
+  totalTilesCounterMultiplyThreeColor: {r: 0.22475971, g: 0.6509434, b: 0.3167766, a: 1}
+  tileColor: {r: 0.5566038, g: 0.27146235, b: 0.155429, a: 1}
+  transparentTileColor: {r: 0.5568628, g: 0.27058825, b: 0.15686275, a: 0.69803923}
+  previewLayer_1_Color: {r: 0.019607844, g: 0.09803922, b: 0.21568628, a: 1}
+  previewLayer_2_Color: {r: 0, g: 0.3019608, b: 0.47843137, a: 1}
+  previewLayer_3_Color: {r: 0, g: 0.5294118, b: 0.5764706, a: 1}
+  previewLayer_4_Color: {r: 0, g: 0.7490196, b: 0.44705883, a: 1}
+  previewLayer_5_Color: {r: 0.65882355, g: 0.92156863, b: 0.07058824, a: 1}
+  Version: 0.0.1
